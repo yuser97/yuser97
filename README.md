@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi! I'm Yuri 👋
 
-<!--
-**yuser97/yuser97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **frontend developer** with **3 years of commercial development experience**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+My journey in IT started in **2019** with web development courses at **Nordic IT School**. Since then, I have continued my professional growth through freelance projects and self-education.  
+
+Recently, I have gained in-depth experience in:
+
+- **Web application performance optimization**
+- **Typing complex interfaces in TypeScript**
+
+I also have experience in **backend development** with:
+
+- Ruby on Rails
+- Python
+- PHP
+
+---
+
+## Key Competencies
+
+- Development of **adaptive SPAs from scratch**
+- **REST API** integration
+- Build customization with **Webpack, Gulp, Vite, Nuxt**
+- Ready for **challenging tasks** and full immersion in product development
+
+---
+
+I am looking for a project where I can **apply my skills** and contribute to meaningful solutions.
+
