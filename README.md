@@ -40,8 +40,4 @@ I also have experience in **backend development** with:
 ---
 
 Ready for challenging tasks and full immersion in product development. Looking for a project where I can apply my skills and develop as a specialist.
-
-# 🛠 Stack
-
-
-
+<!-- # 🛠 Stack -->
