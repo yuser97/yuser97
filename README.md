@@ -26,9 +26,8 @@ I also have experience in **backend development** with:
 - Development of **adaptive SPAs from scratch**
 - **REST API** integration
 - Build customization with **Webpack, Gulp, Vite, Nuxt**
-- Ready for **challenging tasks** and full immersion in product development
 
 ---
 
-I am looking for a project where I can **apply my skills** and contribute to meaningful solutions.
+Ready for challenging tasks and full immersion in product development. Looking for a project where I can apply my skills and develop as a specialist.
 
